@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **stemgene/stemgene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# [Haoyuan Dong]'s Data Science Portfolio
+# Haoyuan Dong's Data Science Portfolio
 
 Hello! I'm Haoyuan Dong, a passionate Data Scientist and Machine Learning Engineer with over 4 years of experience in the field. Welcome to my GitHub portfolio where I share my projects, achievements, and insights from my data science journey.
 
