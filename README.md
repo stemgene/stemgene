@@ -35,7 +35,7 @@ Implemented VGG-16 for brain tumor detection from MRI images, achieving 81.25% a
 
 ### Machine Learning Projects
 
-- **Customer Loyalty Prediction**:
+- [Customer Loyalty Prediction](https://github.com/stemgene/Customer-Loyalty-Score-Prediction):
   Predicted customer loyalty scores from 30 million card transactions. Leveraged NLP techniques (CountVector, TF-IDF) and model stacking (Light GBM, XGBoost) to achieve an impressive RMSE of 3.676.
 
 - **Clinical Entity Classification**:
