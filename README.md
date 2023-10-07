@@ -41,10 +41,10 @@ Implemented VGG-16 for brain tumor detection from MRI images, achieving 81.25% a
 - [Clinical Entity Classification](https://github.com/stemgene/Name-Entity-Recognition-and-Classification):
   Categorized name entities from 4963 clinical documents using advanced word embedding and RNN techniques. Achieved a high f1-score of 0.94, indicating strong model performance.
 
-- **Patient Care Prediction**:
+- [Patient Care Prediction](https://github.com/stemgene/Prediction-of-Skilled-Nursing-Facility-SNF-for-recovery):
   Consulted for a medical center to predict post-surgery patient care decisions. Enhanced data integrity, used a neural network, and achieved an f1-score of 0.93.
 
-- **Stock Index Prediction with Time-Series and NLP:**
+- [Stock Index Prediction with Time-Series and NLP](https://github.com/stemgene/Predict-Stock-Price-by-LSTM-and-Twitter-Analysis-):
 Developed a model predicting US stock index based on social media influence using LSTM for time-series and NLP techniques (LDA, VADAR), with 𝑅2= 0.79 accuracy.
 
 Explore the repository for each project to find detailed code, data, and insights!
