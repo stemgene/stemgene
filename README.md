@@ -77,7 +77,6 @@ Explore the repository for each project to find detailed code, data, and insight
 - M.S. in Data Science, University of Rochester
 - M.S. in Electronic Engineering, Harbin Engineering University
 - Data Science Fellowships, Insight Data Science, TripleTen
-- 
 
 ## Future Project Plan
 
