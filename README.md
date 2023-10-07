@@ -77,6 +77,11 @@ Explore the repository for each project to find detailed code, data, and insight
 - M.S. in Data Science, University of Rochester
 - M.S. in Electronic Engineering, Harbin Engineering University
 - Data Science Fellowships, Insight Data Science, TripleTen
+- 
+
+## Future Project Plan
+
+Currently, my core focus is utilizing cutting-edge deep learning models to tackle challenges in image classification, object detection, and more. I have successfully employed transformer-based approaches to complete projects, such as breast cancer tumor detection. With the continuous advancements in Large-scale Language Models (LLM) and their remarkable success in various multimodal applications, my next endeavor will involve fine-tuning LLM to further enhance breakthroughs in the field of computer vision.
 
 Connect with me on [LinkedIn](link_to_linkedin_profile) and let's collaborate on exciting data science projects!
 
