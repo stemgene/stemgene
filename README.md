@@ -43,16 +43,16 @@ Implemented VGG-16 for brain tumor detection from MRI images, achieving 81.25% a
 
 ### Machine Learning Projects
 
-- [Customer Loyalty Prediction](https://github.com/stemgene/Customer-Loyalty-Score-Prediction):
+- **[Customer Loyalty Prediction](https://github.com/stemgene/Customer-Loyalty-Score-Prediction)**:
   Predicted customer loyalty scores from 30 million card transactions. Leveraged NLP techniques (CountVector, TF-IDF) and model stacking (Light GBM, XGBoost) to achieve an impressive RMSE of 3.676.
 
-- [Clinical Entity Classification](https://github.com/stemgene/Name-Entity-Recognition-and-Classification):
+- **[Clinical Entity Classification](https://github.com/stemgene/Name-Entity-Recognition-and-Classification)**:
   Categorized name entities from 4963 clinical documents using advanced word embedding and RNN techniques. Achieved a high f1-score of 0.94, indicating strong model performance.
 
-- [Patient Care Prediction](https://github.com/stemgene/Prediction-of-Skilled-Nursing-Facility-SNF-for-recovery):
+- **[Patient Care Prediction](https://github.com/stemgene/Prediction-of-Skilled-Nursing-Facility-SNF-for-recovery)**:
   Consulted for a medical center to predict post-surgery patient care decisions. Enhanced data integrity, used a neural network, and achieved an f1-score of 0.93.
 
-- [Stock Index Prediction with Time-Series and NLP](https://github.com/stemgene/Predict-Stock-Price-by-LSTM-and-Twitter-Analysis-):
+- **[Stock Index Prediction with Time-Series and NLP](https://github.com/stemgene/Predict-Stock-Price-by-LSTM-and-Twitter-Analysis-)**:
 Developed a model predicting US stock index based on social media influence using LSTM for time-series and NLP techniques (LDA, VADAR), with 𝑅2= 0.79 accuracy.
 
 Explore the repository for each project to find detailed code, data, and insights!
