@@ -25,6 +25,14 @@ I specialize in leveraging Python for computer vision models, machine learning, 
 
 Here are a few notable projects that showcase my skills and achievements:
 
+### Large-scale Language Model Applications
+
+- **YouTube video content analyzer**. This app can audit a Youtube channel to get the summary and main topics of it. All you have to do is to input the video link or to pass a list of links. Once you select a video by clicking its thumbnail, you can view:
+
+    * A summary of the video
+    * the topics that are discussed in the video
+    * whether there are any sensitive topics discussed in the video
+
 ### Computer Vision Projects
 
 - **Breast Cancer Detection with Vision Transformers:**
