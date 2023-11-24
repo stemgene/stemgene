@@ -35,13 +35,15 @@ Here are a few notable projects that showcase my skills and achievements:
 
 ### Computer Vision Projects
 
+- ** Ovarian Cancer Subtype Classification and Outlier Detection: **
+
 - **Breast Cancer Detection with Vision Transformers:**
 Trained a vision transformer model for breast cancer identification in mammograms using YOLOX for ROIs. Employed cross-self-attention to enhance detection accuracy. Ensembled results for a probabilistic F-1 score of 0.56.
 
 - **Brain Tumor Detection with VGG-16 and LRP:**
 Implemented VGG-16 for brain tumor detection from MRI images, achieving 81.25% accuracy. Enhanced model explainability using Layer-Wise Relevance Propagation (LRP) algorithm to highlight tumor contours.
 
-- **Computer Vision Projects:**
+- **[Computer Vision Projects](https://github.com/stemgene/Computer-Vision-Projects):**
 In this repository, I collect my mini computer vision projects including classification and object detection tasks, as well as basic image preprocessing, e.g. image augmentation, image vectorization, data loader, etc.
 
 ### Machine Learning Projects
