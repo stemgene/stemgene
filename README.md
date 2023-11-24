@@ -27,7 +27,7 @@ Here are a few notable projects that showcase my skills and achievements:
 
 ### Large-scale Language Model Applications
 
-- **[YouTube video content analyzer](https://github.com/stemgene/Youtube_video_analyzer)**. This app can audit a Youtube channel to get the summary and main topics of it. All you have to do is to input the video link or to pass a list of links. Once you select a video by clicking its thumbnail, you can view:
+- **[YouTube video content analyzer](https://github.com/stemgene/Youtube_video_analyzer)**. This app can audit a YouTube channel to get the summary and main topics of it. All you have to do is to input the video link or to pass a list of links. Once you select a video by clicking its thumbnail, you can view:
 
     * A summary of the video
     * the topics that are discussed in the video
@@ -36,10 +36,13 @@ Here are a few notable projects that showcase my skills and achievements:
 ### Computer Vision Projects
 
 - **Breast Cancer Detection with Vision Transformers:**
-Trained a vision transformer model for breast cancer identification in mammograms using YOLOX for ROIs. Employed cross self-attention to enhance detection accuracy. Ensembled results for a probabilistic F-1 score of 0.56.
+Trained a vision transformer model for breast cancer identification in mammograms using YOLOX for ROIs. Employed cross-self-attention to enhance detection accuracy. Ensembled results for a probabilistic F-1 score of 0.56.
 
 - **Brain Tumor Detection with VGG-16 and LRP:**
 Implemented VGG-16 for brain tumor detection from MRI images, achieving 81.25% accuracy. Enhanced model explainability using Layer-Wise Relevance Propagation (LRP) algorithm to highlight tumor contours.
+
+- **Computer Vision Projects:**
+In this repository, I collect my mini computer vision projects including classification and object detection tasks, as well as basic image preprocessing, e.g. image augmentation, image vectorization, data loader, etc.
 
 ### Machine Learning Projects
 
@@ -53,7 +56,7 @@ Implemented VGG-16 for brain tumor detection from MRI images, achieving 81.25% a
   Consulted for a medical center to predict post-surgery patient care decisions. Enhanced data integrity, used a neural network, and achieved an f1-score of 0.93.
 
 - **[Stock Index Prediction with Time-Series and NLP](https://github.com/stemgene/Predict-Stock-Price-by-LSTM-and-Twitter-Analysis-)**:
-Developed a model predicting US stock index based on social media influence using LSTM for time-series and NLP techniques (LDA, VADAR), with 𝑅2= 0.79 accuracy.
+Developed a model predicting the US stock index based on social media influence using LSTM for time-series and NLP techniques (LDA, VADAR), with 𝑅2= 0.79 accuracy.
 
 Explore the repository for each project to find detailed code, data, and insights!
 
@@ -72,7 +75,7 @@ Explore the repository for each project to find detailed code, data, and insight
 
 ### Deputy Director, Department of Important Enterprise Organizations | China Mobile
 
-- Negotiated with industrial companies, achieving $8.07 million annual revenue.
+- Negotiated with industrial companies, achieving $8.07 million in annual revenue.
 - Designed a Smart University Platform, generating $150,000 in annual revenue through collaborations.
 
 ### Product Manager, Department of Data Service | China Mobile Group
