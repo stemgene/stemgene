@@ -35,7 +35,7 @@ Here are a few notable projects that showcase my skills and achievements:
 
 ### Computer Vision Projects
 
-- ** Ovarian Cancer Subtype Classification and Outlier Detection: **
+- **[Ovarian Cancer Subtype Classification and Outlier Detection](https://github.com/stemgene/Ovarian-Cancer-Subtype-Classification):**
 
 - **Breast Cancer Detection with Vision Transformers:**
 Trained a vision transformer model for breast cancer identification in mammograms using YOLOX for ROIs. Employed cross-self-attention to enhance detection accuracy. Ensembled results for a probabilistic F-1 score of 0.56.
