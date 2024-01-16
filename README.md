@@ -27,9 +27,23 @@ Here are a few notable projects that showcase my skills and achievements:
 
 ### Large-scale Language Model Applications
 
-- **[Image caption and object detection with LLM and Langchain]([https://github.com/stemgene/Youtube_video_analyzer](https://github.com/stemgene/Image-caption-with-LLM-and-Langchain)**. Implemented the image analysis based on the ChatGPT API and Langchain. Users can import an image and ask questions about this image with natural language. It will return two types of responses.
+- **[Image caption and object detection with LLM and Langchain](https://github.com/stemgene/Image-caption-with-LLM-and-Langchain)**. Implemented the image analysis based on the ChatGPT API and Langchain. Users can import an image and ask questions about this image with natural language. It will return two types of responses.
     * Describe the image
     * Detect the bounding box of objects in this image.
+
+- **[Fine tuning Llama2 with Ludwig](https://github.com/stemgene/Fine-Tuning-Llama2-With-Ludwig/tree/main)**. Fine tuned the Llama2 model with the Code Alpaca Dataset to generate an application that take natural language as input, return code as output.
+
+As an example, if we prompt the model with this instruction:
+
+```
+Instruction: Create an array of length 5 which contains all even numbers between 1 and 10.
+```
+
+We want the model to produce exactly this response:
+
+```
+Response: array = [2, 4, 6, 8, 10]
+```
 
 - **[YouTube video content analyzer](https://github.com/stemgene/Youtube_video_analyzer)**. This app can audit a YouTube channel to get the summary and main topics of it. All you have to do is to input the video link or to pass a list of links. Once you select a video by clicking its thumbnail, you can view:
 
