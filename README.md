@@ -31,7 +31,7 @@ Here are a few notable projects that showcase my skills and achievements:
     * Describe the image
     * Detect the bounding box of objects in this image.
 
-- **[Fine tuning Llama2 with Ludwig](https://github.com/stemgene/Fine-Tuning-Llama2-With-Ludwig/tree/main)**. Fine tuned the Llama2 model with the Code Alpaca Dataset to generate an application that take natural language as input, return code as output.
+- **[Generate-Code-By-Nature-Language-Using-LLMs]([https://github.com/stemgene/Fine-Tuning-Llama2-With-Ludwig/tree/main](https://github.com/stemgene/Generate-Code-By-Nature-Language-Using-LLMs/tree/main))**. Fine tuned the Llama-2-7b and Gemma models on HuggingFace using QLoRA, and trained it on Code Alpaca dataset with 120k instruction-following code data, enabling translation from natural language input to code output. 
 
 As an example, if we prompt the model with this instruction:
 
